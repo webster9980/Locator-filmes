@@ -4,3 +4,7 @@ Projeto criado com a intenção de usar um API de filmes para abastecer a busca 
 <h1>Tecnologias usadas:</h1>
 -ReactJS(React-router-dom, React-icons, useEffect , useState)
 -API(tmdb) de Filme e séries
+
+#Para iniciar o projeto:
+<p>npm i</p><br>
+<p>npm run dev</p>
